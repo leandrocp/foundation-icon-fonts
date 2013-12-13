@@ -1,5 +1,11 @@
 # Quickstart
 
 ```
-bower install zurb/foundation-icon-fonts
+bower install foundation-icon-fonts
+```
+
+# Ruby On Rails
+
+```
+@import 'foundation-icons-fonts/scss/foundation-icons-rails';
 ```
